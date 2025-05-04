@@ -16,7 +16,7 @@ The notebook walks through every stage of the typical machine‑learning workflo
 ```
 .
 ├── catboost_hds.ipynb   # Main notebook
-├── Web_ClickThrough.zip # Raw dataset (not included — add manually)
+├── Web_ClickThrough.zip # Raw dataset 
 └── README.md            # You are here 🎉
 ```
 
