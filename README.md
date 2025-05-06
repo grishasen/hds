@@ -36,6 +36,22 @@ Each row captures:
 
 Feel free to swap in your own dataset—just ensure the **target column** is named **`Decision_Outcome`** (binary: *Clicked* = 1, *No‑click* = 0).
 
+## Examples
+
+Decision tree visualization.
+
+<img width="757" alt="tree" src="https://github.com/user-attachments/assets/501c85a0-4a80-4687-a435-b4c1bb4f4650" />
+
+Feature analysis.
+
+<img width="719" alt="feature" src="https://github.com/user-attachments/assets/990dbf4d-81e8-42e0-a67b-9e50679554f4" />
+
+Decision explanaition.
+
+![explain](https://github.com/user-attachments/assets/d99ae8eb-cfc0-47c8-9d4d-d5582cad53b4)
+
+
+
 ---
 
 ## References
